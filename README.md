@@ -2,12 +2,12 @@
     - Jacobian
     - Gauss_Seidel
     - SOR (Successive over-relaxation)
-    - Comparison (Time & Accuaracy)
+    - Comparison (Time, # of iterations & Accuaracy)
     
 - Implementation of LU Decomposition
     - Without Partial Pivoting
     - With Partial Pivoting
     - Comparison(Time)
 
-- Prove that LU Decompostion is O(N^3)
+- Show that LU Decompostion is O(N^3)
   
